@@ -9,7 +9,7 @@ This project is a 3D designed robot leg created using Tinkercad. Each leg is equ
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Files](#files)
+- [Video](#video)
 
 
 ## Introduction
@@ -51,6 +51,8 @@ This robot leg model can be used for various educational and experimental purpos
 - Learning about 3D design and printing techniques.
 - Developing control algorithms for robotic limbs.
 
-  ## Files
 
-- **3D Design Files**: Tinkercad files for the robot leg components (.Sdl) exteantion
+  ## Video
+- **3D Design**: Tinkercad file for the robot leg components.
+https://github.com/user-attachments/assets/31fd15b3-ddf6-44ad-82a7-35627d58f78c
+  
