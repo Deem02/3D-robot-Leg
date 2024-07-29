@@ -1,4 +1,4 @@
-# 3D Designed Robot 
+# 3D Designed Robot Leg
 
 This project is a 3D designed robot leg created using Tinkercad. Each leg is equipped with three servo motors to facilitate movement and articulation.
 
@@ -24,16 +24,18 @@ The robot leg design is intended for robotics enthusiasts and hobbyists who wish
 
 ## Requirements
 
-- **Hardware**:
-  - 3D Printer
-  - 3 Servo Motors per leg
-  - Microcontroller (e.g., Arduino)
-  - Power Supply for Servo Motors
-  - Connecting Wires and Hardware for Assembly
+### Hardware
 
-- **Software**:
-  - Tinkercad (for design modifications)
-  - Arduino IDE (for programming the microcontroller)
+- 3D Printer
+- 3 Servo Motors per leg
+- Microcontroller (e.g., Arduino)
+- Power Supply for Servo Motors
+- Connecting Wires and Hardware for Assembly
+
+### Software
+
+- Tinkercad (for design modifications)
+- Arduino IDE (for programming the microcontroller)
 
 ## Installation
 
@@ -51,8 +53,10 @@ This robot leg model can be used for various educational and experimental purpos
 - Learning about 3D design and printing techniques.
 - Developing control algorithms for robotic limbs.
 
+## Video
 
-  ## Video
-- **3D Design**: Tinkercad file for the robot leg components.
-https://github.com/user-attachments/assets/31fd15b3-ddf6-44ad-82a7-35627d58f78c
+- **3D Design**: 
+[Video Link](https://github.com/user-attachments/assets/31fd15b3-ddf6-44ad-82a7-35627d58f78c)
+
+
   
