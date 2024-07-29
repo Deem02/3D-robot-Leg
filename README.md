@@ -58,5 +58,7 @@ This robot leg model can be used for various educational and experimental purpos
 - **3D Design**:
   [Click to watch the video](https://github.com/user-attachments/assets/31fd15b3-ddf6-44ad-82a7-35627d58f78c)
 
+  <video controls> <source src="https://github.com/user-attachments/assets/31fd15b3-ddf6-44ad-82a7-35627d58f78c" type="video/mp4"> Your browser does not support the video tag. </video>
+
 
   
